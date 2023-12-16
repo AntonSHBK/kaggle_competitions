@@ -7,6 +7,7 @@ plotly
 scipy
 numpy
 pandas
+scikit-learn
 
 # Jupyter
 notebook==7.0.4
